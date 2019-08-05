@@ -1,0 +1,60 @@
+{
+  "project_info": {
+    "project_number": "709854893800",
+    "firebase_url": "https://travelmantics-afc04.firebaseio.com",
+    "project_id": "travelmantics-afc04",
+    "storage_bucket": "travelmantics-afc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709854893800:android:8fdd50de5034f12c",
+        "android_client_info": {
+          "package_name": "diginetkenya.co.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709854893800-ndqll24citsjoc5vmlsvrmhg0hk4kkv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diginetkenya.co.travelmantics",
+            "certificate_hash": "fcff6002fe04b62a00e4846b07b243152d40c498"
+          }
+        },
+        {
+          "client_id": "709854893800-nsgvn4tl8es9onc77v61a7132872o23i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclBtSL40YhFgNIIIhzjX_1y7DXekELuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709854893800-nsgvn4tl8es9onc77v61a7132872o23i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "installed": {
+        "client_id": "1013789684707-8nfftro39lnmflt1p0qlvgleub77b5ri.apps.googleusercontent.com",
+        "project_id": "andela-project",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "redirect_uris": [
+          "urn:ietf:wg:oauth:2.0:oob",
+          "http://localhost"
+        ]
+      }
+    }
+  ],
+
+  "configuration_version": "1"
+}
